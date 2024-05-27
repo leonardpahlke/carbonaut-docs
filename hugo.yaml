@@ -116,4 +116,4 @@ params:
       # lang: en
   editURL:
     enable: true
-    base: "https://github.com/leonardpahlke/carbonaut-docs/edit/main/documentation/content"
+    base: "https://github.com/leonardpahlke/carbonaut-docs/edit/main/content"

@@ -7,7 +7,7 @@ toc: false
 
 {{< cards >}}
   {{< card link="docs/guides/how-to-run" title="Running Carbonaut" icon="book-open" >}}
-  {{< card link="docs/components" title="Carbonaut Internal Components" icon="book-open" >}}
+  {{< card link="docs/components" title="Carbonaut Internal Components" icon="document-text" >}}
 {{< /cards >}}
 
 Carbonaut is project to collect and refine environmental sustainability data from your IT infrastructure and make it available in a common data schema. The project does not implement a scraper to scan your IT infrastructure or measure your virtual machine energy, but integrates over providers which are implemented as plugins to integrate external data sources. The project is a POC and therefore not production ready. If you like to [contribute](/docs/reference/contributing) you are very welcome to do so!
