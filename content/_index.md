@@ -19,7 +19,7 @@ Carbonaut is project to collect and refine environmental sustainability data fro
 
 The aim of the project is to collect and integrate data around environmental sustainability and make it accessible to users so that they can make automatic or manual decisions. The project integrates heterogenous data sources over plugins and transforms the data in a simple minimalistic data schema. Carbonaut discovers created IT infrastructure, maintains a minimalistic internal static resource state and chains dynamic changing data together to collect a holistic overview of cloud native sustainability data. More information in the [documentation](/docs/components/).
 
-![carbonaut context](/concepts/context.drawio.png)
+![carbonaut context](/concepts/carbonaut-overall-context.drawio.png)
 
 ### Comparing Carbonaut to other Projects
 
